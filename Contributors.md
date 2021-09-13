@@ -189,6 +189,8 @@ Chirantan
 - [Jacob Dawson](https://github.com/JacobDawson98)
 - [Yuvanna Bawa](https://github.com/YB73)
 - [moses Oketch](https://github.com/moseoketch86)
+- [madhavi](https://github.com/wizbeans)
+
 - [Viraj Nirbhavane](https://github.com/viraj28)
 - [Mohammad Shakib](https://github.com/mo-shakib)
 - [Abhijit Sarode](https://github.com/abhijitsarode)
